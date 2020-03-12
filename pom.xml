@@ -11,9 +11,10 @@
 	
 	<description>
 		spark-2.1.1 案例 java + scala
+		https://github.com/geekyouth/spark-examples_2.1.1
 	</description>
 	
-	<url>https://github.com/geekyouth/spark-examples_2.1.1</url>
+	<url>https://git.io/Jv6q1</url>
 	
 	<properties>
 		<java.version>1.8</java.version>
