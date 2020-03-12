@@ -1,6 +1,6 @@
 # spark-example-2.1.1
 
-![](.pic/banner.jpg)
+![](.pic/banner-2.1.1.jpg)
 
 ---
 2020-03-12
